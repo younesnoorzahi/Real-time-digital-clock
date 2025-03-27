@@ -1,4 +1,3 @@
-https://github.com/younesnoorzahi/Real-time-digital-clock/blob/main/pre.gif?raw=true
 <h2>Real-time-digital-clock</h2>
 <p>The application uses Next.js with the App Router, Tailwind CSS for styling, and shadcn/ui components for a polished user interface. The timer includes both visual and auditory feedback when it completes.</p>
 
